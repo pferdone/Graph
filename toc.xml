@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="PferdOne" APIVersion="9" Name="Graph" Description="Combat Graph">
+    <Script Name="Graph.lua"/>
+    <Form Name="Graph.xml"/>
+</Addon>
